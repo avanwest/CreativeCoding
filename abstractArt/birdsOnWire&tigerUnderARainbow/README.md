@@ -14,4 +14,4 @@
 ######   at nightfall.
 ###### ...
 
-![](birdsOnWire_tigerUnderRainbow)
+![](birdsOnWire_tigerUnderRainbow.gif)
