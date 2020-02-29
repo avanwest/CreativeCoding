@@ -7,7 +7,7 @@
 ###### ...
 
 
-#### "You and I Are Disappearing"
+##### You and I Are Disappearing
 ###### ...
 ###### A tiger under a rainbow
 ######   at nightfall.
