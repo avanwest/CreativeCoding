@@ -1,4 +1,5 @@
-#### My abstract representations of the following visual lines taken from the book of poetry, Neon Vernacular, by Yusef Komunyakaa
+#### My abstract representations of the following visual lines taken from the book of poetry, Neon Vernacular, by Yusef Komunyakaa.
+#### The abstractions are controlled randomizations. 
 
 ##### Birds On a Powerline
 ###### ...Eleven Black. A single 
@@ -12,3 +13,5 @@
 ###### A tiger under a rainbow
 ######   at nightfall.
 ###### ...
+
+![](birdsOnWire_tigerUnderRainbow)
