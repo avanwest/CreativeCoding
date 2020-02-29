@@ -7,10 +7,10 @@ let frameVal = 20;
 
 
 function preload() {
-  img1 = loadImage('mouthBacteria1.jpg');
-  img2 = loadImage('mouthBacteria2.jpg');
-  img3 = loadImage('mouthBacteria3.jpg');
-  img4 = loadImage('mouthBacteria4.jpg');
+  img1 = loadImage('images/mouthBacteria1.jpg');
+  img2 = loadImage('images/mouthBacteria2.jpg');
+  img3 = loadImage('images/mouthBacteria3.jpg');
+  img4 = loadImage('images/mouthBacteria4.jpg');
 }
 
 function setup() {
