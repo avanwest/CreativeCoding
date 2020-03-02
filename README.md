@@ -1,3 +1,3 @@
-# CreativeCoding
+### CreativeCoding
 
-Small creative coding projects using P5.js. Just for fun. 
+Creative Coding projects using P5.Js
